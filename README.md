@@ -3,19 +3,19 @@
 > 從零基礎到進階：Python · C++ · C · Java 四語言、101 章互動教學，搭配 300 題公開範例練習與 2563 題程式判讀，再加上 AI 解題與統一錯題本——全部在瀏覽器內完成，零安裝、零註冊。
 > Learn to code in four languages with 101 interactive chapters, a 300-problem public-example checker, 2,563 code-reading questions, an AI solver and a unified mistakes book—all in the browser, with no install or signup.
 
-📚 **程式教學 / Tutorial**：**https://yu-0312.github.io/apcs-judge/tutorial.html**
+📚 **程式教學 / Tutorial**：**https://chrislovegrace.github.io/apcs-judge/tutorial.html**
 
-🎯 **APCS 題庫 / Judge**：https://yu-0312.github.io/apcs-judge/
+🎯 **APCS 題庫 / Judge**：https://chrislovegrace.github.io/apcs-judge/
 
-🔍 **程式判讀 / Code Reading**：https://yu-0312.github.io/apcs-judge/reading.html
+🔍 **程式判讀 / Code Reading**：https://chrislovegrace.github.io/apcs-judge/reading.html
 
-🤖 **AI 解題 / AI Solver**：https://yu-0312.github.io/apcs-judge/ai-solve.html
+🤖 **AI 解題 / AI Solver**：https://chrislovegrace.github.io/apcs-judge/ai-solve.html
 
-📕 **錯題本 / Mistakes Book**：https://yu-0312.github.io/apcs-judge/mistakes.html
+📕 **錯題本 / Mistakes Book**：https://chrislovegrace.github.io/apcs-judge/mistakes.html
 
-🗺 **學習地圖 / Study Plan**：https://yu-0312.github.io/apcs-judge/studyplan.html
+🗺 **學習地圖 / Study Plan**：https://chrislovegrace.github.io/apcs-judge/studyplan.html
 
-📊 **我的進度 / Dashboard**：https://yu-0312.github.io/apcs-judge/dashboard.html
+📊 **我的進度 / Dashboard**：https://chrislovegrace.github.io/apcs-judge/dashboard.html
 
 [繁體中文](#繁體中文) · [English](#english)
 
