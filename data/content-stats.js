@@ -10,6 +10,6 @@
       chapterIds: Object.freeze(Array.from({ length: 101 }, function (_, i) { return i; }))
     }),
     judge: Object.freeze({ total: 300 }),
-    reading: Object.freeze({ total: 2563 })
+    reading: Object.freeze({ total: 2521 })
   });
 })(window);
